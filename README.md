@@ -1,11 +1,13 @@
-# KALI Lab
+# Mithun Paul Saint-Germain
 
-Website for the **Knowledge, Adversaries, Language & Intelligence Lab** at Northern Arizona University, led by Dr. Mithun Paul Saint-Germain.
+Personal academic website at [mithunpaul08.github.io](https://mithunpaul08.github.io/).
 
-The static site is in `dist/`. A GitHub Actions workflow publishes it to GitHub Pages on every push to `main`.
+The static site is in `dist/`. GitHub Actions publishes it to GitHub Pages on pushes to `main`.
+
+KALI Lab has a separate repository and website.
 
 ## Local preview
 
 ```bash
-python3 -m http.server 4173 --directory dist
+python3 -m http.server 4174 --directory dist
 ```
